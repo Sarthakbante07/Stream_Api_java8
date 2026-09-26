@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_8_Coding.iml" filepath="$PROJECT_DIR$/.idea/Java_8_Coding.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamOne/StreamOne.iml" filepath="$PROJECT_DIR$/StreamOne/StreamOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamTwo/StreamTwo.iml" filepath="$PROJECT_DIR$/StreamTwo/StreamTwo.iml" />
     </modules>
   </component>
 </project>
