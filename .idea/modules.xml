@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_8_Coding.iml" filepath="$PROJECT_DIR$/.idea/Java_8_Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SteamEight/SteamEight.iml" filepath="$PROJECT_DIR$/SteamEight/SteamEight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SteamFive/SteamFive.iml" filepath="$PROJECT_DIR$/SteamFive/SteamFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SteamNine/SteamNine.iml" filepath="$PROJECT_DIR$/SteamNine/SteamNine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SteamSeven/SteamSeven.iml" filepath="$PROJECT_DIR$/SteamSeven/SteamSeven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SteamSix/SteamSix.iml" filepath="$PROJECT_DIR$/SteamSix/SteamSix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SteamTen/SteamTen.iml" filepath="$PROJECT_DIR$/SteamTen/SteamTen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamFour/StreamFour.iml" filepath="$PROJECT_DIR$/StreamFour/StreamFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamOne/StreamOne.iml" filepath="$PROJECT_DIR$/StreamOne/StreamOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamThree/StreamThree.iml" filepath="$PROJECT_DIR$/StreamThree/StreamThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamTwo/StreamTwo.iml" filepath="$PROJECT_DIR$/StreamTwo/StreamTwo.iml" />
+    </modules>
+  </component>
+</project>
